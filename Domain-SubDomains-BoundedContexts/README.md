@@ -23,6 +23,8 @@ payment for the products sold, and it must ship products to buyers. This online 
 domain seems to be composed of these four primary subdomains: Product Catalog, Orders,
 Invoices, and Shipping.
 
+![alt text](https://github.com/ng-alynasser/ddd-playground/blob/master/assets/1.PNG?raw=true)
+
 Notice that at this time just three physical systems exist to realize this retailer's
 domain, only two of which are hosted internally (E-Commerce System and Inventory System).
 Those two internal systems represent what we might think of as two Bounded Contexts.
